@@ -1,2 +1,37 @@
-# Linux-Customization-Guide
-Welcome to the Linux Customization Guide! This repository aims to provide comprehensive information, resources, and installation guides for various desktop environments, package helpers, file systems, and compositors.
+# Linux Customization Guide
+
+Welcome to the Linux Customization Guide! This repository aims to provide comprehensive information, resources, and installation guides for various desktop environments, package helpers, file systems, and compositors. Whether you're a Linux beginner or an experienced user, this repository will help you explore and choose the best combination for your system, tailored to your preferences and needs.
+
+## Table of Contents
+
+- [Desktop Environments](./Desktop-Environments)
+  - [GNOME](./Desktop-Environments/GNOME.md)
+  - [KDE](./Desktop-Environments/KDE.md)
+  - [XFCE](./Desktop-Environments/XFCE.md)
+  - [MATE](./Desktop-Environments/MATE.md)
+  - [Cinnamon](./Desktop-Environments/Cinnamon.md)
+  - [Budgie](./Desktop-Environments/Budgie.md)
+  - [LXDE](./Desktop-Environments/LXDE.md)
+  - [Deepin](./Desktop-Environments/Deepin.md)
+  - [Openbox](./Desktop-Environments/Openbox.md)
+  - [Awesome](./Desktop-Environments/Awesome.md)
+- [Package Helpers](./Package-Helpers)
+  - [Paru](./Package-Helpers/Paru.md)
+  - [Yay](./Package-Helpers/Yay.md)
+  - [Pacaur](./Package-Helpers/Pacaur.md)
+  - [Trizen](./Package-Helpers/Trizen.md)
+  - [Aura](./Package-Helpers/Aura.md)
+  - [Picaur](./Package-Helpers/Picaur.md)
+- [File Systems](./File-Systems)
+  - [Btrfs](./File-Systems/Btrfs.md)
+  - [Ext4](./File-Systems/Ext4.md)
+  - [LUKS](./File-Systems/LUKS.md)
+- [Compositors](./Compositors)
+  - [Wayland](./Compositors/Wayland.md)
+  - [Xorg](./Compositors/Xorg.md)
+  - [Hyprland](./Compositors/Hyprland.md)
+- [Common Combinations](./Common-Combinations.md)
+- [Installation Guides](./Installation-Guides)
+- [Additional Resources](./Additional-Resources.md)
+- [Contributing](./CONTRIBUTING.md)
+- [License](./LICENSE)
