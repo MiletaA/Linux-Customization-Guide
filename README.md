@@ -168,3 +168,5 @@ There isn't a single "best" combination of desktop environment and package helpe
 - Cinnamon + Yay/Paru: Cinnamon is a modern and elegant desktop environment developed for Linux Mint. It has gained popularity among users who want a visually appealing and user-friendly experience. Like other desktop environments, Cinnamon users often choose Yay or Paru for their AUR helper.
 
 - i3 or Awesome + Yay/Paru: i3 and Awesome are both tiling window managers that are popular among users who prefer a minimal and keyboard-driven desktop experience. As these window managers are highly configurable, users often rely on AUR helpers like Yay or Paru to manage additional software packages.
+
+## Installation Guides
