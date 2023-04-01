@@ -170,3 +170,5 @@ There isn't a single "best" combination of desktop environment and package helpe
 - i3 or Awesome + Yay/Paru: i3 and Awesome are both tiling window managers that are popular among users who prefer a minimal and keyboard-driven desktop experience. As these window managers are highly configurable, users often rely on AUR helpers like Yay or Paru to manage additional software packages.
 
 ## Installation Guides
+
+## Additional Resources
