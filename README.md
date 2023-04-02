@@ -172,3 +172,5 @@ There isn't a single "best" combination of desktop environment and package helpe
 ## Installation Guides
 
 ## Additional Resources
+
+## Contributing
