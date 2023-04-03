@@ -174,3 +174,5 @@ There isn't a single "best" combination of desktop environment and package helpe
 ## Additional Resources
 
 ## Contributing
+
+## License
