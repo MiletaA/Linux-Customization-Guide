@@ -15,6 +15,7 @@ Welcome to the Linux Customization Guide! This repository aims to provide compre
   - [LXDE](#lxde)
   - [Deepin](#deepin)
   - [MATE](#mate)
+- [Window Managers](#window-managers)
 - [Package Helpers](#package-helpers)
   - [Paru](#paru)
   - [Yay](#yay)
