@@ -87,6 +87,10 @@ Deepin is a sleek, modern, and user-friendly desktop environment developed by th
 
 MATE is a fork of the GNOME 2 desktop environment, aiming to provide a traditional desktop experience for users who prefer a more classic interface. It is built using the GTK+ toolkit and is known for its stability and performance.
 
+## Window Managers
+
+### Sway
+
 ## Package Helpers
 
 Package helpers are tools that help users manage software packages on a Linux system. They can automate tasks like searching for and installing packages, managing dependencies, and updating the system. AUR helpers are a type of package helper that specifically deal with packages from the Arch User Repository (AUR).
