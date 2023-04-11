@@ -91,6 +91,24 @@ MATE is a fork of the GNOME 2 desktop environment, aiming to provide a tradition
 
 ### Sway
 
+Sway is a tiling Wayland compositor and a drop-in replacement for the i3 window manager, but with support for Wayland instead of X11. It offers a similar configuration syntax and feature set to i3, making it easy for i3 users to transition to a Wayland environment. Sway is lightweight, efficient, and highly configurable, providing a seamless and resource-friendly experience.
+
+### Bspwm
+
+Bspwm (Binary Space Partitioning Window Manager) is a tiling window manager that represents windows as the leaves of a binary tree. It is highly configurable and scriptable, using a simple command-line interface to control window arrangement and behavior. Bspwm does not handle keyboard inputs or other features found in a full desktop environment, so it is often used with additional tools like sxhkd for keybindings and lemonbar for status bars.
+
+### XMonad
+
+XMonad is a tiling window manager for X11, written in Haskell. It is known for its minimalism, extensibility, and stability. XMonad's configuration is done using Haskell, allowing users to create powerful and flexible customizations. It also features a built-in status bar (Xmobar) and support for multi-monitor setups.
+
+### i3
+
+i3 is a popular, lightweight, and highly configurable tiling window manager for X11. It provides efficient window management with a simple and easy-to-understand configuration syntax. i3 supports multi-monitor setups, horizontal and vertical window splitting, and customizable keybindings. The i3status or i3blocks packages can be used to provide a customizable status bar.
+
+### dwm
+
+dwm (Dynamic Window Manager) is a minimalist and dynamic tiling window manager for X11, developed by the creators of the suckless.org project. It is designed to be simple, fast, and highly efficient, with its entire source code being just around 2000 lines. Configuration of dwm is done by editing its source code and recompiling, which encourages users to understand and modify the code to suit their preferences.
+
 ## Package Helpers
 
 Package helpers are tools that help users manage software packages on a Linux system. They can automate tasks like searching for and installing packages, managing dependencies, and updating the system. AUR helpers are a type of package helper that specifically deal with packages from the Arch User Repository (AUR).
